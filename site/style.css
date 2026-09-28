@@ -1,3 +1,5 @@
 body { font-family: system-ui, sans-serif; margin: 2rem; }
 h1 { color: #4E5EA3; }
 footer { color: green; }
+
+.hero { text-align: center; color: #325D79; }
